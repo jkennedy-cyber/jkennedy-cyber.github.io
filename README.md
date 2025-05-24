@@ -2,7 +2,7 @@
 1. Josh Kennedy jkennedy@my.waketech.edu
 2. This is my school account, I am makeing this account for class.
 3. This repository was created to hold my work assignments as i progress through the summer.
-4. <H1>**About Me**<H1></H1>
+4. <H1>About Me<H1></H1>
    * Hello, I started working at 8 years old. My grandparents were immagrants and instilled a great work ethic in my parents and in turn me. In light of that I have had plethera of varying jobs, that have taught me countless leasons like determination and being a hard worker. I like to be challenged in work and personal life, and if something is worth doing it's worth doing well. My most recent job was with the post office where I was working 6 to7 days a week 12 to 16 hours almost every day for 3 years. Most of my family is in some form of IT and in the midst of my grandmothers funeral at the start of this year, my family started to encourage me to pursue a different career path. I spent a couple of months looking into differnet jobs and nothing seemed to really peak my interest other than the idea of cybersecurity. My friends and family came to the same conclusion that I did we all agreed that I should pursue cybersecurity. One of the biggest attractions for me is that this is a constantly evolving field, that will keep me _interested_, _learning_, and _growing_.
    * In addition to being a hard worker, I love to joke around and have fun! My grandmother encouraged me to look on the brighter side of life and help put a smile on other peoples faces. The world is hard and we could all use a smile from time to time. 
 6. <H2>**My Intrests**<H2></H2>
