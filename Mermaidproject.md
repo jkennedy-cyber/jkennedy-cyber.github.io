@@ -17,18 +17,31 @@ E[Remove oil filter]
 F[Turn Engine on for 10 seconds]
 G[Install Drain Plug]
 H[Install oil filter]
-I[Instal oil cap]
+I[Install oil cap]
+J[Add correct amount of oil]
+K[remove jacks' or back off ramps]
+A[Gather Materials]
+B[Jack up Car]
+C[Remove oil Cap]
+D[Remove oil drain plug]
+E[Remove oil filter]
+F[Turn Engine on for 10 seconds]
+G[Install Drain Plug]
+H[Install oil filter]
+I[Install oil cap]
 J[Add correct amount of oil]
 K[remove jacks' or back off ramps]
 A-->B-->C-->D-->E-->F-->G-->H-->I-->J-->K
 B--Not A Bad Idea to Chuck Your Wheel-->C
-A--Oil-->B
-A--Oil Filter-->B
-A--Oil Filter Wrench-->B
-A--Socket Set-->B
-A--Oil Drain Plug-->B
-A--Floor Jack-->B
-A--Jack Stand Or Ramps-->B
+A--1.Oil
+2.Oil Filter
+3.Oil Filter Wrench
+4.Socket Set
+5.Oil Drain Plug Crush Ring
+6.Floor Jack
+7.Oil Drain Pan
+8.Jack Stand Or Ramps-->B
+
 
 
 
